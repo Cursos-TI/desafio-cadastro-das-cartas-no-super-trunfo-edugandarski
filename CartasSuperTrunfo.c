@@ -7,7 +7,7 @@ int main() {
     int populacao1, polulacao2, pontosTuristicos1, pontosTuristicos2;
     float area1, area2, pib1, pib2;
 
-    //carta 1 declaração das variaveis//
+    ///carta 1 declaração das variaveis///
     printf("***Cartas Super Trunfo países***\n");
     printf("Carta A1, Carta A2 :\n");
     printf("Digite o Codigo Da Primeira Cidade : (ex  A01, A02 ): ");
@@ -36,7 +36,7 @@ int main() {
     printf("Número de pontos turísticos:%d\n", pontosTuristicos1);
     printf("======================================\n");
 
-    //carta 2 declaração das variaveis/
+    ///carta 2 declaração das variaveis///
     printf("Digite o Codigo Da Segunda Cidade : (ex, A1, A2 ): ");
     
     scanf("%s", codigo2);
